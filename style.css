@@ -538,7 +538,7 @@ xclip
 .section-title {
     display: block;
     position: relative;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .section-title p {
@@ -1444,7 +1444,13 @@ hr.invis1 {
 
 
 .gallery-single{
-	margin: 30px 15px;;
+	margin: 30px 15px;
+}
+
+.gallery-text{
+	margin: 0px 25px;
+      text-align: justify;
+      text-justify: inter-word;
 }
 
 .gallery-single {
